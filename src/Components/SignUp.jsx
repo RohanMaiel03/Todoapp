@@ -224,7 +224,7 @@ const SignUp = () => {
                             <div className="w-full border-t border-slate-100"></div>
                         </div>
                         <div className="relative flex justify-center text-xs uppercase">
-                            <span className="bg-white px-4 text-slate-400 font-semibold tracking-wider">Or continue with Ram</span>
+                            <span className="bg-white px-4 text-slate-400 font-semibold tracking-wider">Or continue with</span>
                         </div>
                     </div>
 
