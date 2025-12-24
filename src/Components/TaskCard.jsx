@@ -60,7 +60,7 @@ function TaskCard({ id, title, priority, date, isComplete, onDelete, onDragStart
                         e.stopPropagation();
                         onDelete(id);
                     }}
-                    className="w-8 h-8 flex items-center justify-center rounded-lg text-slate-300 hover:text-red-500 hover:bg-red-50 transition-all duration-200"
+                    className="w-8 h-8 flex items-center justify-center rounded-lg text-red-500 hover:text-red-500 hover:bg-red-50 transition-all duration-200"
                     title="Delete Task"
                 >
                     <Trash className="w-4 h-4" />

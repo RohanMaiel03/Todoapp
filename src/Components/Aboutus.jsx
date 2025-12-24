@@ -37,7 +37,7 @@ function Aboutus() {
                 <h2 className="text-2xl font-bold text-slate-900">Our Mission</h2>
               </div>
               <p className="text-slate-600 leading-relaxed font-medium mb-6">
-                TaskFlow was designed to eliminate friction. We ensure your tasks are always available and your workspace stays clean, helping you focus on what matters.
+                TaskFlow makes your work easier. We keep your tasks organized and your workspace clutter-free, so you can focus on getting things done.
               </p>
               
               <div className="space-y-4">
@@ -76,7 +76,7 @@ function Aboutus() {
                 </div>
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-100 text-center">
                   <Cpu className="mx-auto mb-2 text-indigo-600" size={20} />
-                  <p className="text-[10px] font-black uppercase text-slate-400">System</p>
+                  <p className="text-[10px] font-black uppercase text-slate-400">Icons</p>
                   <p className="font-bold text-slate-800 text-sm">Lucide Icons</p>
                 </div>
               </div>
